@@ -31,6 +31,7 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 
 ### 🌐 Let's Connect
 - 📧 Email: [ngangaanthony31@gmail.com](mailto:ngangaanthony31@gmail.com)
+- 💼 LinkedIn: [Anthony Chege](https://www.linkedin.com/in/anthony-chege-76244124b/)
 - 🧭 GitHub: [TonnieD](https://github.com/TonnieD)
 - 📊 Tableau: [Anthony Chege's Dashboard](https://public.tableau.com/app/profile/anthony.chege4666)
 
