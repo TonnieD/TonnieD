@@ -29,6 +29,17 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 
 ---
 
+### 🎯 Interests
+
+| 💻 **Data Science**             | 🔧 **Tech Topics**                  | 🌟 **Personal Life**              |
+|-------------------------------|-------------------------------------|----------------------------------|
+| 🤖 Machine Learning           | 📊 Visualizations                   | 🎌 Anime                         |
+| 📚 Data Storytelling          | 🛠️ Tech Support & Hardware Repair  | ⚽ Football                      |
+| 📈 Analytics                  |                                     | ✈️ Travel, 🎶 Music, 🐉 Tattoos  |
+
+---
+
+
 ### 🌐 Let's Connect
 - 📧 Email: [ngangaanthony31@gmail.com](mailto:ngangaanthony31@gmail.com)
 - 💼 LinkedIn: [Anthony Chege](https://www.linkedin.com/in/anthony-chege-76244124b/)
