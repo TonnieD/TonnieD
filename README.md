@@ -17,6 +17,7 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 ### 📊 Highlighted Projects
 - ✈️ [Aviation Accident Analysis](https://github.com/TonnieD/Phase-2-Project) – An in-depth analysis of aviation accident data to uncover safety trends and insights.
 - 🎬 [Movie Dataset EDA](https://github.com/TonnieD/Phase_1_project) – Exploratory data analysis on movie data to explore what makes a movie profitable.
+- 📡 [Custoer Churn Prediction](https://github.com/TonnieD/Churn-Prediction) – Predict whether a customer will churn (leave the telecom service) based on usage and account data.
 - 💼 More projects coming soon as I continue building during my course journey.
 
 ---
