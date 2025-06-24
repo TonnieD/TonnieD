@@ -25,8 +25,11 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonnieD&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=TonnieD&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TonnieD&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnieD&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TonnieD&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
+
 
 ---
 
