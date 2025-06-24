@@ -26,7 +26,7 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonnieD&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=TonnieD&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnieD&layout=compact&theme=radical" alt="Top Languages" />
+  [![GitHub Streak](https://github-readme-streak-stats-one-lilac.vercel.app?user=TonnieD&theme=radical)](https://git.io/streak-stats)
   <img src="https://github-profile-trophy.vercel.app/?username=TonnieD&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
 
