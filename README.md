@@ -4,16 +4,6 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 
 ---
 
-### 🧠 Tech Stack & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
----
-
 ### 📊 Highlighted Projects
 - 🎬 [Movie Dataset EDA](https://github.com/TonnieD/Phase-2-Project) – An in-depth analysis of aviation accident data to uncover safety trends and insights.
 - ✈️ [Aviation Accident Analysis](https://github.com/TonnieD/Phase_1_project) – Exploratory data analysis on movie data to explore what makes a movie profitable.
