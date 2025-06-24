@@ -24,6 +24,7 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TonnieD&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Tonnie's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TonnieD&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TonnieD&icon=0&color=0)](https://visitcount.itsvg.in)
