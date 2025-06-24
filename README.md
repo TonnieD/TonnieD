@@ -22,7 +22,6 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 ![](https://nirzak-streak-stats.vercel.app/?user=TonnieD&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TonnieD&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
 ### 🔝 Top Contributed Repo & Contribution Graph
 
 <table>
