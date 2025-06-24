@@ -26,7 +26,6 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TonnieD&show_icons=true&theme=radical" alt="GitHub Stats" />
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonnieD&theme=radical)
-  <img src="https://github-profile-trophy.vercel.app/?username=TonnieD&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
 
 
