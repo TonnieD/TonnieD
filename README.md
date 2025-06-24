@@ -30,9 +30,6 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
----
-
 ### 🎯 Interests
 
 | 💻 **Data Science**             | 🔧 **Tech Topics**                  | 🌟 **Personal Life**              |
