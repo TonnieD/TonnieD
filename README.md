@@ -9,6 +9,54 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 
 ---
 
+<h3 align="center">💻 Tech Stack</h3>
+
+<details>
+<summary><strong>🐍 Programming & Platforms</strong></summary>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+</details>
+
+<details>
+<summary><strong>🧠 Machine Learning & AI</strong></summary>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+</p>
+</details>
+
+<details>
+<summary><strong>📊 Data Science & Libraries</strong></summary>
+<p align="center">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+</p>
+</details>
+
+<details>
+<summary><strong>🛢️ Databases</strong></summary>
+<p align="center">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+</details>
+
+<details>
+<summary><strong>📈 Data Visualization & BI</strong></summary>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+</details>
+
+---
+
 ### 📊 Highlighted Projects
 - 🎬 [Movie Dataset EDA](https://github.com/TonnieD/Phase-2-Project) – An in-depth analysis of aviation accident data to uncover safety trends and insights.
 - ✈️ [Aviation Accident Analysis](https://github.com/TonnieD/Phase_1_project) – Exploratory data analysis on movie data to explore what makes a movie profitable.
