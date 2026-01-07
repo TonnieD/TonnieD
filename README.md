@@ -49,7 +49,7 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 |-------------------------------|-------------------------------------|----------------------------------|
 | 🤖 Machine Learning           | 📊 Visualizations                   | 🎌 Anime                         |
 | 📚 Data Storytelling          | 🛠️ Tech Support & Hardware Repair  | ⚽ Football                      |
-| 📈 Analytics                  |                                     | ✈️ Travel, 🎶 Music, 🐉 Tattoos  |
+| 📈 Analytics                  | 🤖 AI & Machine Learning            | ✈️ Travel, 🎶 Music, 🐉 Tattoos  |
 
 ---
 
