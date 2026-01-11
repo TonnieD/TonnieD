@@ -10,8 +10,8 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 ---
 
 ### 📊 Highlighted Projects
-- 🎬 [Movie Dataset EDA](https://github.com/TonnieD/Phase-2-Project) – An in-depth analysis of aviation accident data to uncover safety trends and insights.
-- ✈️ [Aviation Accident Analysis](https://github.com/TonnieD/Phase_1_project) – Exploratory data analysis on movie data to explore what makes a movie profitable.
+- 🎬 [Movie Dataset EDA](https://github.com/TonnieD/Phase-2-Project) – Exploratory data analysis on movie data to explore what makes a movie profitable.
+- ✈️ [Aviation Accident Analysis](https://github.com/TonnieD/Phase_1_project) – An in-depth analysis of aviation accident data to uncover safety trends and insights.
 - 📡 [Customer Churn Prediction](https://github.com/TonnieD/Churn-Prediction) – Predict whether a customer will churn (leave the telecom service) based on usage and account data.
 - 🌿 [Crop Disease Ditection](https://github.com/TonnieD/Crop-Disease-Detection) – Identifying plant diseases from leaf images and leaf symptoms description using CNN and NLP.
 -  💧 [CleanWaterAI 💧](https://github.com/TonnieD/CleanWatAI) – CleanWater AI is an end-to-end machine learning system for monitoring and predicting water contamination risk in rural communities.
