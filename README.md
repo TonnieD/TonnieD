@@ -53,15 +53,15 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2jd0r7jtueb9k8gxsnl2lpars&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
----
-
 ### 🌐 Let's Connect
 - 📧 Email: [ngangaanthony31@gmail.com](mailto:ngangaanthony31@gmail.com)
 - 💼 LinkedIn: [Anthony Chege](https://www.linkedin.com/in/anthony-chege-76244124b/)
 - 🧭 GitHub: [TonnieD](https://github.com/TonnieD)
 - 📊 Tableau: [Anthony Chege's Dashboard](https://public.tableau.com/app/profile/anthony.chege4666)
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2jd0r7jtueb9k8gxsnl2lpars&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
